@@ -1,0 +1,2 @@
+before_install:
+  - curl https://gist.githubusercontent.com/LSafer/a619bc3bafe92db0b05f72b65f6c9cb4/raw/6776fee8fab74d29f0fb427caaf8efff2c25188d/android-sdk-license.sh | sh

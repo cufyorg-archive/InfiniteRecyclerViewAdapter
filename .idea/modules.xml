@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InfiniteRecyclerViewAdapter.iml" filepath="$PROJECT_DIR$/.idea/modules/InfiniteRecyclerViewAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/InfiniteRecyclerViewAdapter.lib.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/InfiniteRecyclerViewAdapter.lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/InfiniteRecyclerViewAdapter.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/InfiniteRecyclerViewAdapter.sample.iml" />
+    </modules>
+  </component>
+</project>

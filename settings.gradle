@@ -1,0 +1,4 @@
+include ':sample'
+include ':lib'
+
+rootProject.name = "InfiniteRecyclerViewAdapter"
